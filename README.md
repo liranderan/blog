@@ -3,9 +3,9 @@ liran-blog
 a Freelance Designer  
 
 **📮Contact me**
-Vancouver.BC
-778 325 8525
-betterliran@gmail.com
+Vancouver.BC  
+778 325 8525  
+betterliran@gmail.com  
 WeChat liranderan  
 
 **👨‍💻Aboutme**
@@ -20,7 +20,7 @@ Sayhomee
 2020/3
 * Web Design
 * Mini program  
-* 
+
 Eano 
 2019/6 
 * Product, Visual Identity Design
@@ -33,18 +33,18 @@ Haohaozhu
 * Haohaozhu app Ver. 2.0 
 * Haohaozhu CRM Dashboard  
 
-Breadtrip
+**Breadtrip**
 2014/9 - 2016/9   UED Manager
 * City hunter Business Ver.
 * Breadtrip Android Ver.  and Building Style Guide  
 
-Mapbar
+**Mapbar**
 2012/11 - 2014/8 Senior UI Designer
 * Mapbar Navigation Android Ver. (Product, Visual Identity Design)
 * MapBar Navigation Off-line GPS Ver. 
 * OBD rearview mirror project (Full Stack Design)  
 
-Qizhitianjie Advertising Co., Ltd.  
+**Qizhitianjie Advertising Co., Ltd.**  
 2011/5 - 2012/10  Graphic Designer  
 * Anhuihuawan seed Industry Co., Ltd.
 * Changbai Mountain International tourist Resort
