@@ -1,5 +1,6 @@
 liran-blog  
-**Hello I'm LI RAN**
+
+**Hello I'm LI RAN**  
 a Freelance Designer  
 
 **📮Contact me**
@@ -9,10 +10,10 @@ betterliran@gmail.com
 WeChat liranderan  
 
 **👨‍💻Aboutme**
-9+ years of experience in web and mobile products designing.
-Sensitive design trend insight.
-Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.
-Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.
+10+ years of experience in web and mobile products designing.  
+Sensitive design trend insight.  
+Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.  
+Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.  
 Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.  
 
 **🌈Freelance**
