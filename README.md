@@ -1,5 +1,5 @@
-# liran-blog
-# Hello I'm LI RAN
+liran-blog
+Hello I'm LI RAN
 a Freelance Designer
 # 📮Contact me 
 Vancouver.BC
