@@ -1,34 +1,34 @@
 liran-blog  
 
-**Hello I'm LI RAN**  
+######Hello I'm LI RAN  
 a Freelance Designer  
 
-**📮Contact me**
+**📮Contact me**  
 Vancouver.BC  
 778 325 8525  
 betterliran@gmail.com  
 WeChat liranderan  
 
-**👨‍💻Aboutme**
+**👨‍💻Aboutme**  
 10+ years of experience in web and mobile products designing.  
 Sensitive design trend insight.  
 Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.  
 Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.  
 Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.  
 
-**🌈Freelance**
+**Freelance**  
 Sayhomee 
 2020/3
 * Web Design
 * Mini program  
 
-Eano 
+**Eano** 
 2019/6 
 * Product, Visual Identity Design
 * Web Design  
 
-**📌Experience**
-Haohaozhu 
+**Experience**  
+**Haohaozhu** 
 2016/10 - 2018/9
 * Senior UI Designer 
 * Haohaozhu app Ver. 2.0 
