@@ -1,15 +1,15 @@
 liran-blog  
 
-######Hello I'm LI RAN  
+###### Hello I'm LI RAN  
 a Freelance Designer  
 
-**📮Contact me**  
+**Contact me**  
 Vancouver.BC  
 778 325 8525  
 betterliran@gmail.com  
 WeChat liranderan  
 
-**👨‍💻Aboutme**  
+**Aboutme**  
 10+ years of experience in web and mobile products designing.  
 Sensitive design trend insight.  
 Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.  
@@ -35,12 +35,12 @@ Sayhomee
 * Haohaozhu CRM Dashboard  
 
 **Breadtrip**
-2014/9 - 2016/9   UED Manager
+2014/9 - 2016/9 UED Manager  
 * City hunter Business Ver.
 * Breadtrip Android Ver.  and Building Style Guide  
 
 **Mapbar**
-2012/11 - 2014/8 Senior UI Designer
+2012/11 - 2014/8 Senior UI Designer  
 * Mapbar Navigation Android Ver. (Product, Visual Identity Design)
 * MapBar Navigation Off-line GPS Ver. 
 * OBD rearview mirror project (Full Stack Design)  
